@@ -48,7 +48,7 @@ In case there are problems with the PyBullet installation, you can refer to this
 
 4. An example of how the arena works is given in the file **manual_control.py**, which contains the mechanism for controlling the car manually, for testing purposes.
 
-## Made and maintained by ✨
+## Made by ✨
 
 <table>
    <td align="center">
