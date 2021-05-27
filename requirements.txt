@@ -1,0 +1,9 @@
+-e git+git@github.com:Robotics-Club-IIT-BHU/gym-carpark.git@118963c931452a91110c1c8dc0474c46875d1c1d#egg=carpark_arena&subdirectory=carpark-arena
+cloudpickle==1.6.0
+future==0.18.2
+gym==0.18.0
+numpy==1.19.5
+Pillow==7.2.0
+pybullet==3.0.8
+pyglet==1.5.0
+scipy==1.6.0
